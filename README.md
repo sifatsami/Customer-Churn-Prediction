@@ -13,7 +13,7 @@ Customer churn poses a significant challenge for subscription-based businesses. 
 - **Key Insight**: Customers with month-to-month contracts and shorter tenure show significantly higher churn risk
 - **Model Interpretability**: SHAP analysis reveals that tenure, contract type, and monthly charges are the strongest predictors
 
-![] (https://github.com/sifatsami/Customer-Churn-Prediction/blob/main/output.png?raw=true)
+![](https://github.com/sifatsami/Customer-Churn-Prediction/blob/main/output.png?raw=true)
 
 ## 🔍 Dataset
 
