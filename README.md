@@ -40,7 +40,7 @@ The project uses a telecom customer dataset with the following features:
 ## 📊 Visualizations
 
 ### 1. Tenure Distribution by Churn Status
-![Churn by Tenure](churn_tenure.png)
+![Churn by Tenure](https://github.com/sifatsami/Customer-Churn-Prediction/blob/main/churn_tenure.png?raw=true)
 
 Customers who churned have significantly shorter tenure compared to retained customers. This highlights the importance of early engagement and retention strategies for new customers.
 
