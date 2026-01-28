@@ -114,20 +114,6 @@ Based on SHAP analysis, the following features most strongly predict churn:
 - **Real-time Monitoring**: Deploy model for ongoing churn risk scoring
 - **A/B Testing**: Validate retention strategies through controlled experiments
 
-## 📁 Project Structure
-
-```
-churn-prediction/
-│
-├── Churn_Final_Project.ipynb    # Main analysis notebook
-├── README.md                     # Project documentation
-├── data/                         # Dataset (not included in repo)
-├── models/                       # Saved model files
-├── images/                       # Visualization outputs
-│   ├── churn_tenure.png
-│   ├── churn_contract.png
-│   └── shap_importance.png
-└── requirements.txt              # Python dependencies
 ```
 
 ## 🏃 Getting Started
@@ -175,12 +161,6 @@ jupyter notebook Churn_Final_Project.ipynb
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-## 👨‍💻 Author
-
-**Sifat Sami**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Sifat Sami](https://linkedin.com/in/yourprofile)
-- Email: sifatsami@gmail.com
 
 ## 📄 License
 
@@ -193,5 +173,3 @@ This project is open source and available under the [MIT License](LICENSE).
 - scikit-learn and TensorFlow communities
 
 ---
-
-⭐ **If you found this project helpful, please consider giving it a star!** ⭐
